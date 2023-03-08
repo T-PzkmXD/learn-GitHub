@@ -1,3 +1,10 @@
 # learn-GitHub
-ここだよ。
-すごいね！
+#include <stdio.h>
+
+int main() {
+  printf("Hello World!");
+  return 0;
+}
+
+// ここだよ。
+// すごいね！
